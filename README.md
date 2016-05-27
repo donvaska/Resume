@@ -20,6 +20,7 @@ Now this is a list what I've learnt in 2 years:
 #### Competitions
  * HackTbilisi Fall-Just Attended.
  * Quartus - Participant.
+ * EUHack - Winner.
  
 #### Education
  I'm a school student and go to N192 public school.
