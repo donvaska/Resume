@@ -24,4 +24,4 @@ Now this is a list what I've learnt in 2 years:
  
 #### Education
  I'm a school student and go to N192 public school.
- Also I'm student in [UG Lemondo Trainings] (http://trainings.edu.ge/).
+ Also I'm student in [UG Lemondo Trainings] (http://trainings.edu.ge/) and [UG-Limes] (ug-limes.ge).
