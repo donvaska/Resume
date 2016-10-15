@@ -1,6 +1,6 @@
 # Vaso Nersezashvili 
 ## Software Enginner
-* Gmail:vaskavaska86@gmail.com
+* Gmail:nersezashviliv@gmail.com
 * Facebook:https://www.facebook.com/vaso.nersezashvili
 * Twitter:https://twitter.com/vaskavaska86
 * Linkedin:https://www.linkedin.com/in/vaso-n-8b7338102?trk=nav_responsive_tab_profile_pic
@@ -24,4 +24,4 @@ Now this is a list what I've learnt in 2 years:
  
 #### Education
  I'm a school student and go to N192 public school.
- Also I'm student in [UG Lemondo Trainings] (http://trainings.edu.ge/) and [UG-Limes] (uglimes.ge).
+ Also I'm student in [UG Lemondo Trainings] (http://trainings.edu.ge/) and [UG-Limes](uglimes.ge).
